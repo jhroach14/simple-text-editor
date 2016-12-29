@@ -1,0 +1,23 @@
+James-Roach-p2:
+total 576
+-rw-r--r--. 1 ugrad    311 Nov  7 12:11 cat.cpp
+-rw-r--r--. 1 ugrad  10095 Nov  9 16:12 chmod.cpp
+-rw-r--r--. 1 ugrad   8769 Nov  9 18:34 cp.cpp
+-rwxr-xr-x. 1 ugrad 178371 Nov  9 19:52 kill
+-rw-r--r--. 1 ugrad   3078 Nov  9 19:51 kill.cpp
+-rw-r--r--. 1 ugrad 228800 Nov  9 19:52 kill.o
+-rw-r--r--. 1 ugrad   3517 Nov  9 16:01 library.cpp
+-rw-r--r--. 1 ugrad    613 Nov  7 14:10 library.h
+-rw-r--r--. 1 ugrad  87728 Nov  9 19:52 library.o
+-rw-r--r--. 1 ugrad    674 Nov  9 19:36 ln.cpp
+-rw-r--r--. 1 ugrad   4140 Nov  9 19:25 ls.cpp
+-rw-r--r--. 1 ugrad   1679 Nov  9 19:52 makefile
+-rw-r--r--. 1 ugrad   4140 Nov  9 17:53 mkdir.cpp
+-rw-r--r--. 1 ugrad   1543 Nov  9 18:57 mv.cpp
+-rw-r--r--. 1 ugrad    295 Nov  5 21:06 penv.cpp
+-rw-r--r--. 1 ugrad    426 Nov  5 21:19 pwd.cpp
+-rw-r--r--. 1 ugrad   2011 Nov  9 20:07 readMe.txt
+-rw-r--r--. 1 ugrad      0 Nov  9 20:08 rec65124
+-rw-r--r--. 1 ugrad   2161 Nov  9 19:34 rm.cpp
+-rw-r--r--. 1 ugrad   2915 Nov  9 19:46 stat.cpp
+/home/ugrads/roach/courses/csci1730/James-Roach-p2:/home/work/cs1730a
